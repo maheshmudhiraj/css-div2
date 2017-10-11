@@ -1,0 +1,43 @@
+#body1
+{
+	width:620px;
+	height:50px;
+	border:1px solid black;
+}
+#body2
+{
+	width:620px;
+	height:100px;
+	margin-top:5px;
+	border:1px solid black;
+}
+#body3
+{
+	width:200px;
+	height:100px;
+	margin-top:5px;
+	border:1px solid black;
+}
+#body4
+{
+	width:200px;
+	height:100px;
+	margin-top:-102px;
+	margin-left:210px;
+	border:1px solid black;
+}
+#body5
+{
+	width:200px;
+	height:100px;
+	margin-top:-102px;
+	margin-left:420px;
+	border:1px solid black;
+}
+#body6
+{
+	width:620px;
+	height:50px;
+	border:1px solid black;
+	margin-top:5px;
+}

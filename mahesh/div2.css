@@ -1,0 +1,18 @@
+#main
+{
+	width:500px;
+	height:500px;
+}
+#body1
+{
+	width:100px;
+	height:100px;
+	background-color:yellow;
+	float:right;
+}
+#body2
+{
+	width:500px;
+	height:500px;
+	background-color:lightblue;
+}

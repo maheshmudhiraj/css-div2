@@ -1,0 +1,536 @@
+#main
+{
+	border:1px solid black;
+	width:416px;
+	height:416px;
+}
+#body1
+{
+	border:1px solid black;
+	width:50px;
+	height:50px;
+	background-color:red;
+}
+#body2
+{
+	border:1px solid black;
+	width:50px;
+	height:50px;
+	background-color:green;
+}
+#body3
+{
+	border:1px solid black;
+	width:50px;
+	height:50px;
+	background-color:red;
+}
+#body4
+{
+	border:1px solid black;
+	width:50px;
+	height:50px;
+	background-color:green;
+}
+#body5
+{
+	border:1px solid black;
+	width:50px;
+	height:50px;
+	background-color:red;
+}
+#body6
+{
+	border:1px solid black;
+	width:50px;
+	height:50px;
+	background-color:green;
+}
+#body7
+{
+	border:1px solid black;
+	width:50px;
+	height:50px;
+	background-color:red;
+}
+#body8
+{
+	border:1px solid black;
+	width:50px;
+	height:50px;
+	background-color:green;
+}
+
+
+
+#body9
+{
+	border:1px solid black;
+	width:50px;
+	height:50px;
+	background-color:green;
+	margin-left:52px;
+	margin-top:-416px;
+}
+#body10
+{
+	border:1px solid black;
+	width:50px;
+	height:50px;
+	background-color:red;
+	margin-left:52px;
+}
+#body11
+{
+	border:1px solid black;
+	width:50px;
+	height:50px;
+	background-color:green;
+		margin-left:52px;
+}
+#body12
+{
+	border:1px solid black;
+	width:50px;
+	height:50px;
+		margin-left:52px;
+	background-color:red;
+}
+#body13
+{
+	border:1px solid black;
+	width:50px;
+		margin-left:52px;
+	height:50px;
+	background-color:green;
+}
+#body14
+{
+	border:1px solid black;
+	width:50px;
+	height:50px;
+		margin-left:52px;
+	background-color:red;
+}
+#body15
+{
+	border:1px solid black;
+	width:50px;
+	height:50px;
+		margin-left:52px;
+	background-color:green;
+}
+#body16
+{
+	border:1px solid black;
+	width:50px;
+	height:50px;
+		margin-left:52px;
+	background-color:red;
+}
+
+#body17
+{
+	border:1px solid black;
+	width:50px;
+	height:50px;
+	background-color:red;
+	margin-left:104px;
+	margin-top:-416px;
+}
+#body18
+{
+	border:1px solid black;
+	width:50px;
+	height:50px;
+		margin-left:104px;
+	background-color:green;
+}
+#body19
+{
+	border:1px solid black;
+	width:50px;
+		margin-left:104px;
+	height:50px;
+	background-color:red;
+}
+#body20
+{
+	border:1px solid black;
+	width:50px;
+	height:50px;
+	background-color:green;
+		margin-left:104px;
+}
+#body21
+{
+	border:1px solid black;
+	width:50px;
+	height:50px;
+	background-color:red;
+		margin-left:104px;
+}
+#body22
+{
+	border:1px solid black;
+	width:50px;
+	height:50px;
+	background-color:green;
+		margin-left:104px;
+}
+#body23
+{
+	border:1px solid black;
+	width:50px;
+	height:50px;
+	background-color:red;
+		margin-left:104px;
+}
+#body24
+{
+	border:1px solid black;
+	width:50px;
+	height:50px;
+		margin-left:104px;
+	background-color:green;
+}
+
+
+#body25
+{
+	border:1px solid black;
+	width:50px;
+	height:50px;
+	background-color:green;
+	margin-left:156px;
+	margin-top:-416px;
+}
+#body26
+{
+	border:1px solid black;
+	width:50px;
+	height:50px;
+	background-color:red;
+	margin-left:156px;
+}
+#body27
+{
+	border:1px solid black;
+	width:50px;
+	height:50px;
+	background-color:green;
+		margin-left:156px;
+}
+#body28
+{
+	border:1px solid black;
+	width:50px;
+	height:50px;
+		margin-left:156px;
+	background-color:red;
+}
+#body29
+{
+	border:1px solid black;
+	width:50px;
+		margin-left:156px;
+	height:50px;
+	background-color:green;
+}
+#body30
+{
+	border:1px solid black;
+	width:50px;
+	height:50px;
+		margin-left:156px;
+	background-color:red;
+}
+#body31
+{
+	border:1px solid black;
+	width:50px;
+	height:50px;
+		margin-left:156px;
+	background-color:green;
+}
+#body32
+{
+	border:1px solid black;
+	width:50px;
+	height:50px;
+		margin-left:156px;
+	background-color:red;
+}
+
+#body33
+{
+	border:1px solid black;
+	width:50px;
+	height:50px;
+	background-color:red;
+	margin-left:208px;
+	margin-top:-416px;
+}
+#body34
+{
+	border:1px solid black;
+	width:50px;
+	height:50px;
+		margin-left:208px;
+	background-color:green;
+}
+#body35
+{
+	border:1px solid black;
+	width:50px;
+		margin-left:208px;
+	height:50px;
+	background-color:red;
+}
+#body36
+{
+	border:1px solid black;
+	width:50px;
+	height:50px;
+	background-color:green;
+		margin-left:208px;
+}
+#body37
+{
+	border:1px solid black;
+	width:50px;
+	height:50px;
+	background-color:red;
+		margin-left:208px;
+}
+#body38
+{
+	border:1px solid black;
+	width:50px;
+	height:50px;
+	background-color:green;
+		margin-left:208px;
+}
+#body39
+{
+	border:1px solid black;
+	width:50px;
+	height:50px;
+	background-color:red;
+		margin-left:208px;
+}
+#body40
+{
+	border:1px solid black;
+	width:50px;
+	height:50px;
+		margin-left:208px;
+	background-color:green;
+}
+
+
+
+#body41
+{
+	border:1px solid black;
+	width:50px;
+	height:50px;
+	background-color:green;
+	margin-left:260px;
+	margin-top:-416px;
+}
+#body42
+{
+	border:1px solid black;
+	width:50px;
+	height:50px;
+	background-color:red;
+	margin-left:260px;
+}
+#body43
+{
+	border:1px solid black;
+	width:50px;
+	height:50px;
+	background-color:green;
+		margin-left:260px;
+}
+#body44
+{
+	border:1px solid black;
+	width:50px;
+	height:50px;
+		margin-left:260px;
+	background-color:red;
+}
+#body45
+{
+	border:1px solid black;
+	width:50px;
+		margin-left:260px;
+	height:50px;
+	background-color:green;
+}
+#body46
+{
+	border:1px solid black;
+	width:50px;
+	height:50px;
+		margin-left:260px;
+	background-color:red;
+}
+#body47
+{
+	border:1px solid black;
+	width:50px;
+	height:50px;
+		margin-left:260px;
+	background-color:green;
+}
+#body48
+{
+	border:1px solid black;
+	width:50px;
+	height:50px;
+		margin-left:260px;
+	background-color:red;
+}
+
+
+
+
+#body49
+{
+	border:1px solid black;
+	width:50px;
+	height:50px;
+	background-color:red;
+	margin-left:312px;
+	margin-top:-416px;
+}
+#body50
+{
+	border:1px solid black;
+	width:50px;
+	height:50px;
+		margin-left:312px;
+	background-color:green;
+}
+#body51
+{
+	border:1px solid black;
+	width:50px;
+		margin-left:312px;
+	height:50px;
+	background-color:red;
+}
+#body52
+{
+	border:1px solid black;
+	width:50px;
+	height:50px;
+	background-color:green;
+		margin-left:312px;
+}
+#body53
+{
+	border:1px solid black;
+	width:50px;
+	height:50px;
+	background-color:red;
+		margin-left:312px;
+}
+#body54
+{
+	border:1px solid black;
+	width:50px;
+	height:50px;
+	background-color:green;
+		margin-left:312px;
+}
+#body55
+{
+	border:1px solid black;
+	width:50px;
+	height:50px;
+	background-color:red;
+		margin-left:312px;
+}
+#body56
+{
+	border:1px solid black;
+	width:50px;
+	height:50px;
+		margin-left:312px;
+	background-color:green;
+}
+
+
+
+
+
+#body57
+{
+	border:1px solid black;
+	width:50px;
+	height:50px;
+	background-color:green;
+	margin-left:364px;
+	margin-top:-416px;
+}
+#body58
+{
+	border:1px solid black;
+	width:50px;
+	height:50px;
+	background-color:red;
+	margin-left:364px;
+}
+#body59
+{
+	border:1px solid black;
+	width:50px;
+	height:50px;
+	background-color:green;
+		margin-left:364px;
+}
+#body60
+{
+	border:1px solid black;
+	width:50px;
+	height:50px;
+		margin-left:364px;
+	background-color:red;
+}
+#body61
+{
+	border:1px solid black;
+	width:50px;
+		margin-left:364px;
+	height:50px;
+	background-color:green;
+}
+#body62
+{
+	border:1px solid black;
+	width:50px;
+	height:50px;
+		margin-left:364px;
+	background-color:red;
+}
+#body63
+{
+	border:1px solid black;
+	width:50px;
+	height:50px;
+		margin-left:364px;
+	background-color:green;
+}
+#body64
+{
+	border:1px solid black;
+	width:50px;
+	height:50px;
+		margin-left:364px;
+	background-color:red;
+}
